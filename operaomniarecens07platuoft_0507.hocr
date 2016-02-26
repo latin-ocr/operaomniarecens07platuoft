@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniarecens07platuoft/operaomniarecens07platuoft_0507.png"; bbox 0 0 2072 3698; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 10 1220 1783 1355">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 10 1220 1783 1355">
+     <span class='ocr_line' id='line_1_1' title="bbox 10 1220 1783 1355; baseline 0.007 -16"><span class='ocrx_word' id='word_1_1' title='bbox 10 1220 173 1338; x_wconf 79' lang='grc' dir='ltr'><strong>’ἰ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 351 1257 1783 1355; x_wconf 63' lang='lat' dir='ltr'><strong>malens,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 63 3450 1453 3534">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 63 3450 1453 3534">
+     <span class='ocr_line' id='line_1_2' title="bbox 63 3450 1453 3534; baseline 0.004 -13"><span class='ocrx_word' id='word_1_3' title='bbox 63 3450 70 3457; x_wconf 36' lang='grc' dir='ltr'>ι</span> <span class='ocrx_word' id='word_1_4' title='bbox 176 3478 286 3523; x_wconf 70' lang='lat' dir='ltr'><strong>mat.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 318 3483 429 3534; x_wconf 70' lang='lat' dir='ltr'><strong>OpP.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 458 3479 555 3524; x_wconf 81' lang='lat' dir='ltr'><strong>vol.</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 586 3482 679 3524; x_wconf 85' lang='lat' dir='ltr'><strong>vn.</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1379 3480 1453 3534; x_wconf 66' lang='grc'><strong>84</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
